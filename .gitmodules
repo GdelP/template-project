@@ -1,0 +1,9 @@
+[submodule "src/googletest"]
+	path = src/googletest
+	url = https://github.com/google/googletest.git
+[submodule "src/benchmark"]
+	path = src/benchmark
+	url = https://github.com/google/benchmark.git
+[submodule "src/boost"]
+	path = src/boost
+	url = https://github.com/boostorg/boost.git
